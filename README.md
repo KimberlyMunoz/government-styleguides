@@ -10,5 +10,6 @@ Useful if you're looking for open source, accessible front-end patterns.
 
 
 ## Writing Style Guides
-- [New Zealand Style Guide](https://www.govt.nz/about/our-style-guide/)
+- [New Zealand Style Guide (NZ)](https://www.govt.nz/about/our-style-guide/)
+- [National Archives and Records Administration Style Guide (USA)](https://www.archives.gov/open/plain-writing/style-guide.pdf) (PDF)
 
