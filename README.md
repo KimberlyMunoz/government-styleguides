@@ -1,4 +1,7 @@
 # government-styleguides
+
+This list has been combined with http://government.github.io/best-practices/design-systems/ and no longer updated here.
+
 A list of style guides and code samples from government agencies. 
 Useful if you're looking for open source, accessible front-end patterns.
 
